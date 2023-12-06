@@ -1,0 +1,12 @@
+form input,
+form button{
+    display: flex;
+    width: 320px;
+    margin-bottom: 8px;
+    padding: 8px;
+}
+
+form button{
+    width: 62px;
+    text-align: center;
+}
